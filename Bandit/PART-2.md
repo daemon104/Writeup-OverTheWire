@@ -168,7 +168,7 @@ Thành công có được shell sh, tiến hành lấy lại password cho level 
 
 Ở level này, chúng ta cần tạo 1 folder tên bất kì trong thư mục /tmp để clone repo về với cú pháp như sau:
 
-![Uploading file..._re8dkv0ns]()
+```git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo ```
 
 Sau đó cat file README trong repo là được:
 
